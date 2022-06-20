@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandonedwinogola
 - 👀 I’m interested in ...cyber security
-- 🌱 I’m currently learning ...software engineering
+- 🌱 I’m currently learning ...software engineering basicaly codding
 - 💞️ I’m looking to collaborate on ... software development 
 - 📫 How to reach me ...through my email
 
