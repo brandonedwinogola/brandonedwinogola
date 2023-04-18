@@ -4,7 +4,7 @@
 <h3 align="center">Elevating the online world as a Full-stack Developer 💻.Currently available for all Frontend developer roles/work. From Nirobi,Kenya and constantly sharpening my skills, with a strong focus on JavaScript and React</h3>
 <img align="right" alt="coding gif" width= "400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah43577&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah43577" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonedwinogola&label=Profile%20views&color=0e75b6&style=flat" alt="Brandon" /> </p>
 
 <p align="left"> <a href="https://twitter.com/BrandonOgola" target="blank"><img src="https://img.shields.io/twitter/follow/BrandonOgola?logo=twitter&style=for-the-badge" alt="BrandonOgola" /></a> </p>
 
