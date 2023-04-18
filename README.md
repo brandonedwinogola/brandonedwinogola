@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah43577&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah43577" /> </p>
 
-<p align="left"> <a href="https://twitter.com/officialayo540" target="blank"><img src="https://img.shields.io/twitter/follow/officialayo540?logo=twitter&style=for-the-badge" alt="officialayo540" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BrandonOgola" target="blank"><img src="https://img.shields.io/twitter/follow/BrandonOgola?logo=twitter&style=for-the-badge" alt="BrandonOgola" /></a> </p>
 
 - 🌱 I’m currently learning **REACT**
 
