@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/BrandonOgola" target="blank"><img src="https://img.shields.io/twitter/follow/BrandonOgola?logo=twitter&style=for-the-badge" alt="BrandonOgola" /></a> </p>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **PYTHON**
 
-- 👯 I’m looking to collaborate on **FRONTEND WEB DEVELOPMENT**
+- 👯 I’m looking to collaborate on **FRONTEND WEB DEVELOPMENT CURRENTLY**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brandonedwinogola](https://github.com/brandonedwinogola?tab=repositories)
 
@@ -20,9 +20,13 @@
 
 - 📄 Know about my experiences [https://github.com/brandonedwinogola?tab=repositories](https://github.com/brandonedwinogola?tab=repositories)
 
-- ⚡ Fun fact **I love Computer programming more than almost anything except God, since code is art**
+- ⚡ Fun fact **I love Computer programming more than almost anything except God, since code is art** inspired by the following ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 - ☣️ **The best things come from living outside of your comfort zone.**
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=brandonedwinogola&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +43,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonedwinogola&show_icons=true&locale=en" alt="brandonedwinogola" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonedwinogola&" alt="brandonedwinogola" /></p>
+
+<h1 align="center" style="color:#FC7300;">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐🌟 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</h1>
 <!---
 brandonedwinogola/brandonedwinogola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
