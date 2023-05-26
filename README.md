@@ -1,7 +1,19 @@
 [![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)]
 
-<h1 align="center">Hi 👋, I'm Brandon Edwin Ogola</h1>
+<!--<h1 align="center">Hi 👋, I'm Brandon Edwin Ogola</h1>-->
 <h3 align="center">Elevating the online world as a Full-stack Developer 💻.Currently available for all Frontend developer roles/work. From Nirobi,Kenya and constantly sharpening my skills, with a strong focus on JavaScript and React</h3>
+
+<h1 align="center">👋 Hi, I'm <a href="https://https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/" target="_blank"> Brandon Ogola </a></h1>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+
+- 🌱 Learning Never Stops 🚀
+
+- 💬 Ask me about **Web Development, Java, DBMS, MySQL**
+
+- 👨‍💻 Check out my personal portfolio : **<a href="https://branonogolaportfoliowebsite.netlify.app/" target="_blank">Portfolio</a>**
+
+- 😄 Pronouns: He/His
+
 <img align="right" alt="coding gif" width= "400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonedwinogola&label=Profile%20views&color=0e75b6&style=flat" alt="Brandon" /> </p>
