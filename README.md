@@ -3,7 +3,7 @@
 \[![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)]
 
 **Full‑Stack Developer** based in Nairobi, Kenya 🇰🇪
-187 followers · 266 following · [brandon14ogola@gmail.com](mailto:brandon14ogola@gmail.com)
+· [brandon14ogola@gmail.com](mailto:brandon14ogola@gmail.com)
 [Portfolio](https://brandon-2i82.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/) · [Twitter @BrandonOgola](https://twitter.com/BrandonOgola)
 
 [![committers.top badge](https://user-badge.committers.top/kenya/brandonedwinogola.svg)](https://user-badge.committers.top/kenya/brandonedwinogola)&#x20;
