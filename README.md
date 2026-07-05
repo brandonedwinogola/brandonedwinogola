@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Brandon Edwin Ogola
+## 👋 Hi, I’m Brandon Edwin Ogola 
 
 \[![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)]
 
